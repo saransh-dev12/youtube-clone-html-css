@@ -50,6 +50,10 @@ This project was built as part of my frontend development journey to strengthen 
 - Video hover effects
 - Search functionality
 
+## Live Demo
+
+ https://saransh-dev12.github.io/youtube-clone-html-css/
+
 ## Author
 
 **Saransh Pandey**
